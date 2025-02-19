@@ -10,8 +10,8 @@ void SecondLightChanged(uint8_t brightness);
 void MotorChanged(uint8_t brightness);
 
 // Change this!!
-const char* ssid = "TANIGUCHI";
-const char* password = "2046TANI1221";
+const char* ssid = "SSID";
+const char* password = "PW";
 
 boolean wifiConnected = false;
 
