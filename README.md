@@ -13,6 +13,16 @@
 - ✅ **LED (GPIO 25, 26, 27 に接続)**
 - ✅ **ステッピングモーター & ドライバ (GPIO 12, 14 に接続)**
 
+## 🔗TANI-Labの商品購入先です。
+👉 TLP-A100 Amazon https://amzn.to/40O6x6r
+👉 TLP-A300 メルカリ https://jp.mercari.com/item/m35213370981
+👉 TLP-A300 Amazon　https://amzn.to/3Cp6Jjg
+👉 TLP-A400 Amazon https://amzn.to/3Enzduf
+👉 TLP-P050 Amazon https://amzn.to/4hdklNI
+👉 TLP-P055 Amazon https://amzn.to/4gkuXcl
+👉 TLP-P120 Amazon https://amzn.to/3EhnI7D
+👉 TLP-P150 Amazon https://amzn.to/4jDk9sO
+
 ## 🛠️ ピン設定
 | コンポーネント        | ESP32 GPIO |
 |-----------------|-----------|
