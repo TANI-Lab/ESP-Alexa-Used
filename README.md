@@ -77,6 +77,9 @@ espalexa.addDevice("MT1", MotorChanged);
 - **ESP32とAlexaは同じネットワークに接続する必要あり**。
 - **モーター制御は基本的なものなので、細かい動作調整が必要になる場合があります**。
 
+## ⚠️ 動画
+[![YouTube動画を見る](https://img.youtube.com/vi/fiy8IQm_EbE/hqdefault.jpg)](https://www.youtube.com/watch?v=fiy8IQm_EbE)
+
 ## 📜 ライセンス
 このプロジェクトは **MIT License** のもとで提供されます。
 
